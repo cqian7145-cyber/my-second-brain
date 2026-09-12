@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "home.md/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "未命名"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "home.md/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "home.md/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "home.md/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,17 @@
   },
   "active": "f2f067450975b33a",
   "lastOpenFiles": [
+    "00_System/USER_CONTEXT.md",
+    "home.md/未命名.md",
+    "home.md",
+    "AGENTS.md/未命名.md",
+    "CLAUDE.md/未命名.md",
+    "AGENTS.md",
     "09_Archive/README.md",
+    "CLAUDE.md",
+    "AI_ENTRYPOINT.md/AI_ENTRYPOINT.md",
     "README.md",
+    "AI_ENTRYPOINT.md",
     "欢迎.md",
     "09_Archive/README.md.tmp.51232.7257b6756646",
     "08_Reviews/_review-template.md",
@@ -216,15 +225,6 @@
     "04_Projects/_project-template/06_Experiments.md.tmp.51232.55c5fbbc6f56",
     "04_Projects/_project-template/05_Prompts.md",
     "04_Projects/_project-template/04_Decisions.md",
-    "04_Projects/_project-template/03_Requirements.md",
-    "04_Projects/_project-template/02_Research.md",
-    "04_Projects/_project-template/01_Problem.md",
-    "04_Projects/_project-template/00_Context.md",
-    "04_Projects/README.md",
-    "03_Prompts/Deprecated/README.md",
-    "03_Prompts/Production/README.md",
-    "03_Prompts/Meta/prompt-improver.md",
-    "03_Prompts/Meta/prompt-generator.md",
-    "03_Prompts/Meta/README.md"
+    "04_Projects/_project-template/03_Requirements.md"
   ]
 }
