@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "47f2a5fa0420e0f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceb95ecaaa9901ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2f067450975b33a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a53cfa2938ef6a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2be4a7cd80bbe80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "227a5843adbed955",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a651fae7dfaedc9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3f0a69b9712c8499",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6cc32c4cdf3589a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "985a8bc717d702ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "016f29eba2134cef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "b4ff552415334a2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "9efebc3478e1c4dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "78fdcdf944d689a5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d1ab0d91bd7b62fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "f2f067450975b33a",
+  "lastOpenFiles": [
+    "09_Archive/README.md",
+    "README.md",
+    "欢迎.md",
+    "09_Archive/README.md.tmp.51232.7257b6756646",
+    "08_Reviews/_review-template.md",
+    "08_Reviews/_review-template.md.tmp.51232.a05100b564d3",
+    "08_Reviews/README.md",
+    "08_Reviews/README.md.tmp.51232.609afc7a0910",
+    "07_Experiments/_experiment-template.md",
+    "07_Experiments/_experiment-template.md.tmp.51232.45a54d4b092b",
+    "07_Experiments/README.md",
+    "07_Experiments/README.md.tmp.51232.b4324bd2163b",
+    "06_Decisions/_decision-template.md",
+    "06_Decisions/_decision-template.md.tmp.51232.152be0070c90",
+    "06_Decisions/README.md",
+    "05_Workflows/_workflow-template.md",
+    "05_Workflows/_workflow-template.md.tmp.51232.975442856a89",
+    "05_Workflows/README.md",
+    "05_Workflows/README.md.tmp.51232.dc8eb83a6b65",
+    "04_Projects/_project-template/08_Retrospective.md",
+    "04_Projects/_project-template/08_Retrospective.md.tmp.51232.a581455c8aba",
+    "04_Projects/_project-template/07_Output.md",
+    "04_Projects/_project-template/06_Experiments.md",
+    "04_Projects/_project-template/06_Experiments.md.tmp.51232.55c5fbbc6f56",
+    "04_Projects/_project-template/05_Prompts.md",
+    "04_Projects/_project-template/04_Decisions.md",
+    "04_Projects/_project-template/03_Requirements.md",
+    "04_Projects/_project-template/02_Research.md",
+    "04_Projects/_project-template/01_Problem.md",
+    "04_Projects/_project-template/00_Context.md",
+    "04_Projects/README.md",
+    "03_Prompts/Deprecated/README.md",
+    "03_Prompts/Production/README.md",
+    "03_Prompts/Meta/prompt-improver.md",
+    "03_Prompts/Meta/prompt-generator.md",
+    "03_Prompts/Meta/README.md"
+  ]
+}
