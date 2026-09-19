@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md/未命名.md",
+                "file": "Clippings/插件付费功能建议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "插件付费功能建议"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md/未命名.md",
+                "file": "00_System/USER_CONTEXT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md/未命名.md",
+                "file": "00_System/USER_CONTEXT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md/未命名.md",
+                "file": "00_System/USER_CONTEXT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,41 +190,41 @@
   },
   "active": "f2f067450975b33a",
   "lastOpenFiles": [
-    "00_System/USER_CONTEXT.md",
-    "home.md/未命名.md",
-    "home.md",
-    "AGENTS.md/未命名.md",
-    "CLAUDE.md/未命名.md",
-    "AGENTS.md",
-    "09_Archive/README.md",
-    "CLAUDE.md",
-    "AI_ENTRYPOINT.md/AI_ENTRYPOINT.md",
     "README.md",
-    "AI_ENTRYPOINT.md",
-    "欢迎.md",
+    "Clippings/英语实战自媒体.md",
+    "Clippings/美妆个护产品Meta广告投放研究.md",
+    "Clippings/美妆个护产品Meta广告投放研究 1.md",
+    "Clippings/未命名.md",
+    "Clippings/搭建个人网站步骤.md",
+    "Clippings/搜索结果.md",
+    "Clippings/插件付费功能建议.md",
+    "Clippings/提示词系统.md",
+    "Clippings/提示词系统 1.md",
+    "Clippings/技术栈.md",
+    "Clippings/技术方案撰写.md",
+    "Clippings/学习路径与目标规划.md",
+    "Clippings/Web Highlights 核心功能 1.md",
+    "Clippings/To every 19-22 year old who wants to be a millionaire entrepreneur 对每一个 19-22 岁想成为百万富翁的企业家.md",
+    "Clippings/Shopify 客户查看方法.md",
+    "Clippings/Shopify Veloura Theme设计.md",
+    "Clippings/RoboCup 感知技术教程 1.md",
+    "Clippings/reactbits aceternity ui originkit uiverse io 各自功能 受欢迎程度 实用性打分 并给出连接 - Google 搜索.md",
+    "Clippings/How to Use Ultralytics YOLO11 for Object Detection and Tracking How to Benchmark  YOLO11 RELEASED🚀.md",
+    "Clippings/How Language Shapes The Way You Think｜语言如何悄悄塑造我们的思维方式.md",
+    "Clippings/HistoryMind Pro：产品方案 V1.0.md",
+    "Clippings/GPT更新要点.md",
+    "Clippings/DeepSeek.md",
+    "Clippings/Chrome插件开发流程 1.md",
+    "Clippings/Anime.js本地接入Codex.md",
+    "Clippings",
     "09_Archive/README.md.tmp.51232.7257b6756646",
-    "08_Reviews/_review-template.md",
     "08_Reviews/_review-template.md.tmp.51232.a05100b564d3",
-    "08_Reviews/README.md",
     "08_Reviews/README.md.tmp.51232.609afc7a0910",
-    "07_Experiments/_experiment-template.md",
     "07_Experiments/_experiment-template.md.tmp.51232.45a54d4b092b",
-    "07_Experiments/README.md",
     "07_Experiments/README.md.tmp.51232.b4324bd2163b",
-    "06_Decisions/_decision-template.md",
     "06_Decisions/_decision-template.md.tmp.51232.152be0070c90",
-    "06_Decisions/README.md",
-    "05_Workflows/_workflow-template.md",
     "05_Workflows/_workflow-template.md.tmp.51232.975442856a89",
-    "05_Workflows/README.md",
     "05_Workflows/README.md.tmp.51232.dc8eb83a6b65",
-    "04_Projects/_project-template/08_Retrospective.md",
-    "04_Projects/_project-template/08_Retrospective.md.tmp.51232.a581455c8aba",
-    "04_Projects/_project-template/07_Output.md",
-    "04_Projects/_project-template/06_Experiments.md",
-    "04_Projects/_project-template/06_Experiments.md.tmp.51232.55c5fbbc6f56",
-    "04_Projects/_project-template/05_Prompts.md",
-    "04_Projects/_project-template/04_Decisions.md",
-    "04_Projects/_project-template/03_Requirements.md"
+    "04_Projects/_project-template/08_Retrospective.md.tmp.51232.a581455c8aba"
   ]
 }
