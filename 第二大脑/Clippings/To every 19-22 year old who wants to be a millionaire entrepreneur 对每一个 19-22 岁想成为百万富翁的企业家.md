@@ -1,13 +1,13 @@
 ---
-title: "To every 19-22 year old who wants to be a millionaire entrepreneur 对每一个 19-22 岁想成为百万富翁的企业家"
-source: "https://www.reddit.com/r/youngentrepreneur/comments/1spwrz7/to_every_1922_year_old_who_wants_to_be_a/"
+title: To every 19-22 year old who wants to be a millionaire entrepreneur 对每一个 19-22 岁想成为百万富翁的企业家
+source: https://www.reddit.com/r/youngentrepreneur/comments/1spwrz7/to_every_1922_year_old_who_wants_to_be_a/
 author:
   - "[[Express-Memory-9289]]"
 published: 2026-04-19
 created: 2026-06-07
-description: "I get it. I wanted the same thing at your age. 我懂。在我那个年纪的时候，我也想要同样的东西。 But here’s what nobody tells you. 但是，这里是有没有人告诉你的事情。"
+description: I get it. I wanted the same thing at your age. 我懂。在我那个年纪的时候，我也想要同样的东西。 But here’s what nobody tells you. 但是，这里是有没有人告诉你的事情。
 tags:
-  - "clippings"
+  - clippings
 ---
 I get it. I wanted the same thing at your age.  
 我懂。在我那个年纪的时候，我也想要同样的东西。

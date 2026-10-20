@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb95ecaaa9901ef",
+        "id": "2c379299d3bee8ee",
         "type": "tabs",
         "children": [
           {
-            "id": "f2f067450975b33a",
+            "id": "6fe695d7de5f0576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/插件付费功能建议.md",
+                "file": "02_Knowledge/ML/task7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "插件付费功能建议"
+              "title": "task7"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_System/USER_CONTEXT.md",
+                "file": "02_Knowledge/C语言/lesson02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,62 +169,76 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "0e2ead83a9ca6b4a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Agent Chat": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "f2f067450975b33a",
+  "active": "6fe695d7de5f0576",
   "lastOpenFiles": [
-    "README.md",
-    "Clippings/英语实战自媒体.md",
-    "Clippings/美妆个护产品Meta广告投放研究.md",
-    "Clippings/美妆个护产品Meta广告投放研究 1.md",
-    "Clippings/未命名.md",
-    "Clippings/搭建个人网站步骤.md",
-    "Clippings/搜索结果.md",
-    "Clippings/插件付费功能建议.md",
-    "Clippings/提示词系统.md",
-    "Clippings/提示词系统 1.md",
-    "Clippings/技术栈.md",
-    "Clippings/技术方案撰写.md",
-    "Clippings/学习路径与目标规划.md",
-    "Clippings/Web Highlights 核心功能 1.md",
-    "Clippings/To every 19-22 year old who wants to be a millionaire entrepreneur 对每一个 19-22 岁想成为百万富翁的企业家.md",
-    "Clippings/Shopify 客户查看方法.md",
-    "Clippings/Shopify Veloura Theme设计.md",
-    "Clippings/RoboCup 感知技术教程 1.md",
-    "Clippings/reactbits aceternity ui originkit uiverse io 各自功能 受欢迎程度 实用性打分 并给出连接 - Google 搜索.md",
-    "Clippings/How to Use Ultralytics YOLO11 for Object Detection and Tracking How to Benchmark  YOLO11 RELEASED🚀.md",
-    "Clippings/How Language Shapes The Way You Think｜语言如何悄悄塑造我们的思维方式.md",
-    "Clippings/HistoryMind Pro：产品方案 V1.0.md",
-    "Clippings/GPT更新要点.md",
-    "Clippings/DeepSeek.md",
-    "Clippings/Chrome插件开发流程 1.md",
-    "Clippings/Anime.js本地接入Codex.md",
+    "02_Knowledge/ML/task6.md",
+    "02_Knowledge/ML/task7.md",
+    "02_Knowledge/ML/task05.md",
+    "02_Knowledge/ML/lesson02.md",
+    "02_Knowledge/ML/task04.md",
+    "02_Knowledge/Business/day2.md",
+    "02_Knowledge/Business/day01.md",
+    "Clippings/每日商业文学修炼.md",
+    "02_Knowledge/English/8.md",
+    "02_Knowledge/English/7.md",
+    "02_Knowledge/English/6.md",
+    "02_Knowledge/English/5.md",
+    "10 news/10.19.md",
+    "10 news/10.18.md",
+    "10 news/10.17.md",
+    "10 news/10.16.md",
+    "10 news/10.15.md",
+    "10 news/10.14.md",
+    "10 news",
+    "00_System/未命名",
+    "02_Knowledge/English/4.md",
+    "02_Knowledge/English/3.md",
+    "02_Knowledge/English/2.md",
+    "02_Knowledge/English/1.md",
+    "02_Knowledge/English",
+    "02_Knowledge/未命名.md",
+    "02_Knowledge/ML/task03.md",
+    "02_Knowledge/ML/schedule.md",
+    "02_Knowledge/ML/task02.md",
+    "04_Projects/short videos making",
+    "04_Projects/ROS2 AI Vision Rover — V1",
+    "未命名 1",
+    "02_Knowledge/ML",
+    "02_Knowledge/C语言",
     "Clippings",
-    "09_Archive/README.md.tmp.51232.7257b6756646",
-    "08_Reviews/_review-template.md.tmp.51232.a05100b564d3",
-    "08_Reviews/README.md.tmp.51232.609afc7a0910",
-    "07_Experiments/_experiment-template.md.tmp.51232.45a54d4b092b",
-    "07_Experiments/README.md.tmp.51232.b4324bd2163b",
-    "06_Decisions/_decision-template.md.tmp.51232.152be0070c90",
-    "05_Workflows/_workflow-template.md.tmp.51232.975442856a89",
-    "05_Workflows/README.md.tmp.51232.dc8eb83a6b65",
-    "04_Projects/_project-template/08_Retrospective.md.tmp.51232.a581455c8aba"
+    "09_Archive/README.md.tmp.51232.7257b6756646"
   ]
 }

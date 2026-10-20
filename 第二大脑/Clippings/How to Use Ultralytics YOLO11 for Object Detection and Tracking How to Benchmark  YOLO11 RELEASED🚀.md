@@ -1,13 +1,13 @@
 ---
-title: "How to Use Ultralytics YOLO11 for Object Detection and Tracking| How to Benchmark | YOLO11 RELEASED🚀"
-source: "https://www.youtube.com/watch?v=-JXwa-WlkU8&list=PL1FZnkj4ad1P9gulU2Ud6y-1m1fKXTPGW"
+title: How to Use Ultralytics YOLO11 for Object Detection and Tracking| How to Benchmark | YOLO11 RELEASED🚀
+source: https://www.youtube.com/watch?v=-JXwa-WlkU8&list=PL1FZnkj4ad1P9gulU2Ud6y-1m1fKXTPGW
 author:
   - "[[Ultralytics]]"
 published: 2024-10-04
 created: 2026-06-11
-description: "Get ready for an exciting first look at the amazing new Ultralytics YOLO11! 🚀  In this action-packed video, we’ll show you why YOLO11 is the most powerful object detection model yet! 🎉 With incred"
+description: Get ready for an exciting first look at the amazing new Ultralytics YOLO11! 🚀  In this action-packed video, we’ll show you why YOLO11 is the most powerful object detection model yet! 🎉 With incred
 tags:
-  - "clippings"
+  - clippings
 ---
 ![](https://www.youtube.com/watch?v=-JXwa-WlkU8)
 

@@ -1,12 +1,12 @@
 ---
-title: "Shopify Veloura Theme设计"
-source: "https://chatgpt.com/c/6a7216c7-9e28-83ea-be41-47a71c85fca9"
+title: Shopify Veloura Theme设计
+source: https://chatgpt.com/c/6a7216c7-9e28-83ea-be41-47a71c85fca9
 author:
 published:
 created: 2026-08-05
-description: "ChatGPT conversation with 4 messages"
+description: ChatGPT conversation with 4 messages
 tags:
-  - "clippings"
+  - clippings
 ---
 shopify商店theme网页实际制作ai提示词 Veloura
 

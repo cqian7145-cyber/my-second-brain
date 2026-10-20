@@ -1,12 +1,12 @@
 ---
-title: "GPT更新要点"
-source: "https://chatgpt.com/c/6a9c3f8c-4910-83e9-b1ec-b431552878fb"
+title: GPT更新要点
+source: https://chatgpt.com/c/6a9c3f8c-4910-83e9-b1ec-b431552878fb
 author:
 published:
 created: 2026-09-06
-description: "ChatGPT conversation with 5 messages"
+description: ChatGPT conversation with 5 messages
 tags:
-  - "clippings"
+  - clippings
 ---
 可以。我建议你不要做成“AI 技能大杂烩”，而是围绕一个目标：
 

@@ -1,12 +1,12 @@
 ---
-title: "Chrome插件开发流程"
-source: "https://chatgpt.com/c/6a6877c7-5b40-83ea-b22a-4a943284abfd"
+title: Chrome插件开发流程
+source: https://chatgpt.com/c/6a6877c7-5b40-83ea-b22a-4a943284abfd
 author:
 published:
 created: 2026-07-29
-description: "ChatGPT conversation with 11 messages"
+description: ChatGPT conversation with 11 messages
 tags:
-  - "clippings"
+  - clippings
 ---
 
 ---

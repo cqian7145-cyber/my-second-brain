@@ -1,12 +1,12 @@
 ---
-title: "Web Highlights 核心功能"
-source: "https://chatgpt.com/c/6a6b835d-3914-83ea-ac60-a647c1f80ef4"
+title: Web Highlights 核心功能
+source: https://chatgpt.com/c/6a6b835d-3914-83ea-ac60-a647c1f80ef4
 author:
 published:
 created: 2026-07-31
-description: "ChatGPT conversation with 6 messages"
+description: ChatGPT conversation with 6 messages
 tags:
-  - "clippings"
+  - clippings
 ---
 两个产品区别是什么 差距在哪 有哪些可以借鉴学习webhighlight的地方 webhighlights开源吗 现在你就是产品经理技术总监 尤其是在批注高亮的地方
 

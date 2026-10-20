@@ -1,12 +1,12 @@
 ---
-title: "AI基础能力学习"
-source: "https://chatgpt.com/c/6a9ce8ef-6ee4-83ea-ad7b-e2f662d101a1"
+title: AI基础能力学习
+source: https://chatgpt.com/c/6a9ce8ef-6ee4-83ea-ad7b-e2f662d101a1
 author:
 published:
 created: 2026-09-06
-description: "ChatGPT conversation with 2 messages"
+description: ChatGPT conversation with 2 messages
 tags:
-  - "clippings"
+  - clippings
 ---
 \*\*目标：从“会问 GPT”变成“会指挥 AI”\*\*学习：
 

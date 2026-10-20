@@ -1,12 +1,12 @@
 ---
-title: "DeepSeek"
-source: "https://chat.deepseek.com/a/chat/s/93e0bcd8-ad27-46b8-bcc5-eb2d08bea838"
+title: DeepSeek
+source: https://chat.deepseek.com/a/chat/s/93e0bcd8-ad27-46b8-bcc5-eb2d08bea838
 author:
 published:
 created: 2026-07-29
-description: "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。"
+description: Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。
 tags:
-  - "clippings"
+  - clippings
 ---
 我做了个浏览器插件产品 是关于网页历史记录 如果你是用户必须是具体的 不同身份如学生 自媒体创作者 上班族 电商卖家等等至少十5个身份 有哪些痛点和需求 请给我建议和启发 以便我增加功能
 

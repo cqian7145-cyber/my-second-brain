@@ -1,12 +1,12 @@
 ---
-title: "Shopify 客户查看方法"
-source: "https://chatgpt.com/c/6a720539-4de8-83ea-bd4a-6a08ea520399"
+title: Shopify 客户查看方法
+source: https://chatgpt.com/c/6a720539-4de8-83ea-bd4a-6a08ea520399
 author:
 published:
 created: 2026-08-05
-description: "ChatGPT conversation with 5 messages"
+description: ChatGPT conversation with 5 messages
 tags:
-  - "clippings"
+  - clippings
 ---
 如果是做欧美市场，我建议 **不要直接用 Beauty、Cosmetics、Skincare 这类通用词** ，而是像 Fenty、Glossier、Tatcha、ILIA、Rare Beauty 一样，先有一个 **品牌名** ，以后可以扩展到多个品类。
 

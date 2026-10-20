@@ -1,12 +1,12 @@
 ---
-title: "美妆个护产品Meta广告投放研究"
-source: "https://claude.ai/chat/b4c9a7e1-b8f4-4775-838f-9c7a49d39445"
+title: 美妆个护产品Meta广告投放研究
+source: https://claude.ai/chat/b4c9a7e1-b8f4-4775-838f-9c7a49d39445
 author:
 published:
 created: 2026-08-04
-description: "Claude conversation with 8 messages"
+description: Claude conversation with 8 messages
 tags:
-  - "clippings"
+  - clippings
 ---
 ## Beauty & Personal Care · 2026 Meta Ads 新一轮选品研究（第二轮·差异化选品）
 

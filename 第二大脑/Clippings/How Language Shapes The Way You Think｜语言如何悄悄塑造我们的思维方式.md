@@ -1,13 +1,13 @@
 ---
-title: "How Language Shapes The Way You Think｜语言如何悄悄塑造我们的思维方式"
-source: "https://www.youtube.com/watch?v=xIGCEKtobd4&t=3s"
+title: How Language Shapes The Way You Think｜语言如何悄悄塑造我们的思维方式
+source: https://www.youtube.com/watch?v=xIGCEKtobd4&t=3s
 author:
   - "[[Leah's Diary 莉雅老师]]"
 published: 2026-05-22
 created: 2026-06-07
-description: "Have you ever thought about how language shapes the way you think? I've been thinking about it a lot recently and wanted to share my thoughts! It's particularly interesting between languages that are"
+description: Have you ever thought about how language shapes the way you think? I've been thinking about it a lot recently and wanted to share my thoughts! It's particularly interesting between languages that are
 tags:
-  - "clippings"
+  - clippings
 ---
 ![](https://www.youtube.com/watch?v=xIGCEKtobd4)
 

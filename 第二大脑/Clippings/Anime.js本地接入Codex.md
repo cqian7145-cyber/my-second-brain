@@ -1,12 +1,12 @@
 ---
-title: "Anime.js本地接入Codex"
-source: "https://chatgpt.com/c/6aa3dfc5-8194-83ea-bfeb-faaaceb0c228"
+title: Anime.js本地接入Codex
+source: https://chatgpt.com/c/6aa3dfc5-8194-83ea-bfeb-faaaceb0c228
 author:
 published:
 created: 2026-09-11
-description: "ChatGPT conversation with 2 messages"
+description: ChatGPT conversation with 2 messages
 tags:
-  - "clippings"
+  - clippings
 ---
 animejs使用教程 本地使用 接入codex应用
 
